@@ -34,7 +34,7 @@ Comprehensive documentation is available for version 1.0. It includes:
 - API references
 - Known issues and their resolutions
 
-📚 [Access the Documentation](https://your-documentation-link-here)
+📚 [Access the Documentation](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/Explore%20Spacecards%20v1.0%20Features.docx)
 
 ---
 
