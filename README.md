@@ -1,6 +1,13 @@
 # Spacecard App - Version Monitoring, Reports, and Documentation
 
 Welcome to the **Spacecard App** repository! This repository is dedicated to monitoring app versions, maintaining reports, and hosting detailed documentation for Spacecards. Currently, the app is at **Version 1.0**.
+
+## 📲 Download the App
+
+Click the link below to download the latest version of Spacecards:
+[Download Spacecards APK v1.0](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/raw/main/Spacecards-v1.0/releases/spacecards-v1.apk)
+
+
 ![v1](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/v11.png)
 ---
 
