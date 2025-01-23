@@ -1,7 +1,7 @@
 # Spacecard App - Version Monitoring, Reports, and Documentation
 
 Welcome to the **Spacecard App** repository! This repository is dedicated to monitoring app versions, maintaining reports, and hosting detailed documentation for Spacecards. Currently, the app is at **Version 1.0**.
-
+![v1](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/v1.png)
 ---
 
 ## 🚀 About Spacecards
@@ -31,13 +31,7 @@ Comprehensive documentation is available for version 1.0. It includes:
 
 ---
 
-## 📷 Preview of Spacecards v1.0
 
-### Home Screen
-![Spacecards Home Screen](https://your-image-link-here)
-
-### Card Management
-![Card Management](https://your-image-link-here)
 
 
 ## 🛠 Future Versions
