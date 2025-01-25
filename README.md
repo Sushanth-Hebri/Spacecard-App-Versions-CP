@@ -3,7 +3,7 @@
 Welcome to the **Spacecard App** repository! This repository is dedicated to monitoring app versions, maintaining reports, and hosting detailed documentation for Spacecards. Currently, the app is at **Version 2.0 (24/01/25)**.
 
 **Version 2 New features**
-1. New section "Mix" added which includes random feed of videos, songs, images, articles, texts
+1. New section "Mix" added which includes random(controlled) feed of videos, songs, images, articles, texts
 2. Under "feed" section only space news is generated
 3. server is established with firebase as backend for "mix"
 4. Included search option in mix section where user can search content by keywords attached with it
