@@ -18,6 +18,8 @@ Welcome to the **Spacecard App** repository! This repository is dedicated to mon
 [Spacecards_v1.0](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/raw/main/Spacecards-v1.0/releases/spacecards-v1.apk)
 
 
+Version 2 - new screens
+![v1](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/v2.png)
 
 
 Version 1 
