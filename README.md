@@ -34,13 +34,7 @@ Welcome to the **Spacecard App** repository! This repository is dedicated to mon
 ## 📸 **Demo Screenshots**
 
 ### 🔹 **Version 2.0 UI**
-| **Home Screen** | **Mix Section** |
-|----------------|----------------|
-| ![Home](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/home.png) | ![Mix](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/mix.png) |
-
-| **Search Feature** | **Live TV** |
-|----------------|----------------|
-| ![Search](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/search.png) | ![LiveTV](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/livetv.png) |
+![v1](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/v2.png)
 
 ---
 
