@@ -11,6 +11,8 @@ Welcome to the **Spacecard App** repository! This repository is dedicated to mon
 
 ## 📲 Download the App
 
+![qr](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/5bjzv9pk-400.png)
+
 **Versions:** 
 
 [Spacecards_v2.0](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/raw/main/Spacecards-v2.0/spacecard2.apk)
