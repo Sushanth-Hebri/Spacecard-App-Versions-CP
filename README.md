@@ -1,82 +1,74 @@
-# Spacecard App - Version Monitoring, Reports, and Documentation
+# 🚀 Spacecard App - Version Monitoring, Reports, and Documentation
 
+Welcome to the **Spacecard App** repository! This repository is dedicated to monitoring app versions, maintaining reports, and hosting detailed documentation for Spacecards.  
 
-
-| Versions | Samples|
-|-----------|-----------|
-| [Spacecards_v2.0](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/raw/main/Spacecards-v2.0/spacecard2.apk) | ![v1](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/v2.png) |
-| [Spacecards_v1.0](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/raw/main/Spacecards-v1.0/releases/spacecards-v1.apk)
- | ![v1](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/v11.png)
- |
-| ![qr](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/5bjzv9pk-400.png)
- | Scan QR in mobile for easy download |
-
-
-
-
-
-
-
-
-Welcome to the **Spacecard App** repository! This repository is dedicated to monitoring app versions, maintaining reports, and hosting detailed documentation for Spacecards. Currently, the app is at **Version 2.0 (24/01/25)**.
-
-**Version 2 New features**
-1. New section "Mix" added which includes random(controlled) feed of videos, songs, images, articles, texts
-2. Under "feed" section only space news is generated
-3. server is established with firebase as backend for "mix"
-4. Included search option in mix section where user can search content by keywords attached with it
-5. Live TV feature in mix section, Yotube (credits) , TV 9(credits) live stream
-
-## 📲 Download the App
-
-![qr](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/5bjzv9pk-400.png)
-
-**Versions:** 
-
-[Spacecards_v2.0](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/raw/main/Spacecards-v2.0/spacecard2.apk)
-
-[Spacecards_v1.0](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/raw/main/Spacecards-v1.0/releases/spacecards-v1.apk)
-
-
-Version 2 - new screens
-![v1](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/v2.png)
-
-
-Version 1 
-![v1](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/v11.png)
----
-
-## 🚀 About Spacecards
-Spacecards is a feature-rich application designed to manage and organize digital space cards efficiently. The app emphasizes user-friendly interfaces, sleek designs, and reliable performance. This repository serves as the hub for version tracking and all associated documentation.
+📅 **Current Version:** **v2.0 (24/01/25)**  
 
 ---
 
-## 📝 Current Version: **v1.0**
+## 📲 Download the App  
 
-### Features in v1.0:
-1. **Dynamic Space Card Management** - Easily create, edit, and organize space cards.
-2. **Responsive Design** - Optimized for all devices, providing a seamless user experience.
-3. **Intuitive Interface** - Designed for easy navigation and use.
-4. **Focus on space news**
+| **Versions** | **Screenshots** |
+|-------------|---------------|
+| [📥 Spacecards v2.0](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/raw/main/Spacecards-v2.0/spacecard2.apk) | ![v2](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/v2.png) |
+| [📥 Spacecards v1.0](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/raw/main/Spacecards-v1.0/releases/spacecards-v1.apk) | ![v1](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/v11.png) |
 
 ---
 
-## 📄 Documentation
+## 📡 **Scan QR Code for Easy Download**
+<p align="center">
+  <img src="https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/5bjzv9pk-400.png" width="200">
+</p>
 
-Comprehensive documentation is available for version 1.0. It includes:
-- Installation steps
-- User guides
-- API references
-- Known issues and their resolutions
+---
+
+## 🆕 **Version 2.0 - What's New?**  
+1. **New "Mix" Section**: Includes a controlled feed of videos, songs, images, articles, and text.  
+2. **Refined "Feed" Section**: Now exclusively shows space news.  
+3. **Firebase Backend Integration**: "Mix" section is now powered by Firebase.  
+4. **Search Feature**: Users can search content using associated keywords.  
+5. **Live TV Streaming**: Includes YouTube (credits) and TV9 (credits) live stream integration.
+
+---
+
+## 📸 **Demo Screenshots**
+
+### 🔹 **Version 2.0 UI**
+| **Home Screen** | **Mix Section** |
+|----------------|----------------|
+| ![Home](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/home.png) | ![Mix](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/mix.png) |
+
+| **Search Feature** | **Live TV** |
+|----------------|----------------|
+| ![Search](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/search.png) | ![LiveTV](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/livetv.png) |
+
+---
+
+## 🚀 **About Spacecards**
+**Spacecards** is a feature-rich application designed to manage and organize digital space cards efficiently. It emphasizes user-friendly interfaces, sleek designs, and reliable performance. This repository serves as the hub for version tracking and all associated documentation.
+
+---
+
+## 📝 **Version 1.0 Features**
+1. **Dynamic Space Card Management** - Easily create, edit, and organize space cards.  
+2. **Responsive Design** - Optimized for all devices, ensuring a seamless experience.  
+3. **Intuitive Interface** - Designed for easy navigation and usability.  
+4. **Focused Space News** - Stay updated with the latest space-related news.  
+
+---
+
+## 📄 **Documentation**
+Comprehensive documentation is available for **Version 1.0**, including:  
+✔️ Installation Steps  
+✔️ User Guides  
+✔️ API References  
+✔️ Known Issues & Fixes  
 
 📚 [Access the Documentation](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/Explore%20Spacecards%20v1.0%20Features.docx)
 
 ---
 
+## 🛠 **Future Updates**
+Stay tuned for upcoming versions and new features! 🚀  
 
-
-
-## 🛠 Future Versions
- Stay tuned for updates!
-
-Thank you for using Spacecards! 🚀
+Thank you for using **Spacecards**! ⭐  
