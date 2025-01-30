@@ -1,5 +1,21 @@
 # Spacecard App - Version Monitoring, Reports, and Documentation
 
+
+## Side-by-Side Sections
+
+| Section 1 | Section 2 |
+|-----------|-----------|
+| ![Left Image](https://via.placeholder.com/150) | ![Right Image](https://via.placeholder.com/150) |
+| **Left Content** | **Right Content** |
+| Description for left. | Description for right. |
+
+
+
+
+
+
+
+
 Welcome to the **Spacecard App** repository! This repository is dedicated to monitoring app versions, maintaining reports, and hosting detailed documentation for Spacecards. Currently, the app is at **Version 2.0 (24/01/25)**.
 
 **Version 2 New features**
