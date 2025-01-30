@@ -1,13 +1,15 @@
 # Spacecard App - Version Monitoring, Reports, and Documentation
 
 
-## Side-by-Side Sections
 
-| Section 1 | Section 2 |
+| Versions | Samples|
 |-----------|-----------|
-| ![Left Image](https://via.placeholder.com/150) | ![Right Image](https://via.placeholder.com/150) |
-| **Left Content** | **Right Content** |
-| Description for left. | Description for right. |
+| [Spacecards_v2.0](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/raw/main/Spacecards-v2.0/spacecard2.apk) | ![v1](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/v2.png) |
+| [Spacecards_v1.0](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/raw/main/Spacecards-v1.0/releases/spacecards-v1.apk)
+ | ![v1](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/v11.png)
+ |
+| ![qr](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP/blob/main/5bjzv9pk-400.png)
+ | Scan QR in mobile for easy download |
 
 
 
